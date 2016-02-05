@@ -2,6 +2,7 @@
 _Written by Rick Henderson. (C) 2016_
 
 ##Paragraphs in Word
+Nothing here so far.
 
 ##Exploring Tabs and Indents
 
@@ -30,7 +31,7 @@ placed a left tab. There are 6 types of tabs available in Word:
 
 * Left
 * Right
-* Centre
+* Center
 * Bar
 * Decimal
 
